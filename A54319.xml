@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King's most excellent Majesty, the Right Honorable Lords, spiritual and temporal; and to the noble and worthy Commons of England, assembled in Parliament This out-side sheet was really prepared to add to this book, to undeceive King, Parliament, and people; ...</title>
+            <author>Percy, James, 1619-1690?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54319</idno>
+            <idno type="STC">Wing P1463BA</idno>
+            <idno type="STC">ESTC R218226</idno>
+            <idno type="EEBO-CITATION">99829837</idno>
+            <idno type="PROQUEST">99829837</idno>
+            <idno type="VID">34282</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54319)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34282)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2011:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King's most excellent Majesty, the Right Honorable Lords, spiritual and temporal; and to the noble and worthy Commons of England, assembled in Parliament This out-side sheet was really prepared to add to this book, to undeceive King, Parliament, and people; ...</title>
+                  <author>Percy, James, 1619-1690?</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from caption title and first lines of text.</note>
+                  <note>Signatures: A² ; pagination marked by *'s, instead of numbers.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Percy, James, 1619-1690? --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Land titles --  England --  Early works to 1800.</term>
+               <term>Inheritance and succession --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:34282:1"/>
+            <pb n="*" facs="tcp:34282:1"/>
+            <head>To the KING'S moſt Excellent Majeſty, the Right Honorable Lords, Spiritual and Temporal; and to the Noble and Worthy Commons of <hi>England,</hi> Aſſembled in <hi>Parliament.</hi>
+            </head>
+            <p>THis out-ſide Sheet was really prepared to add to this Book, to un<g ref="char:EOLhyphen"/>deceive <hi>King, Parliament,</hi> and <hi>People;</hi> and to unmask the cunning Contrivances of Politicians, who Publiſhed the Claymant, <hi>James Percy,</hi> in the <hi>Gazet,</hi> to be an Impoſtor; ſetting forth a Pedigree of the Claymant's younger Brother, Mr. <hi>William Percy;</hi> pretend<g ref="char:EOLhyphen"/>ing to undeceive the People: But their real Deſign was, to wildernize the true Heir, and amuſe the World. Notwithſtanding, the Claymant hath at the laſt, proved himſelf the next Heir, as by a Judgment and Verdict; and reco<g ref="char:EOLhyphen"/>vered Coſt, as by the Verdict exemplyfied under the Seal of his Majeſty's Court of <hi>King</hi>'s-<hi>Bench:</hi> And therefore, with Courage, and a clear Soul, de<g ref="char:EOLhyphen"/>mands the Place and Seat of his Anceſtors, as the true Heir-Male of the <hi>Percies,</hi> and Earls of <hi>Northumberland.</hi> And therefore, the Lord <hi>Ogle</hi> (that Marryed the Lady <hi>Elizabeth Percy</hi>) ought not to Aſſume the Name of <hi>Percy,</hi> nor have any Settlement of the Lands, which attend the Title. For the Agents did put in a Bill to the Right Honorable Committee of the <hi>Houſe of Lords,</hi> to be made an Act of <hi>Parliament,</hi> for the Settlement of the ſaid Lands: And alſo, pretended to Indemnify the Truſtees, But it is rather judg'd, the real Contrivance of the Truſtees, was meerly to bring themſelves off, from giving an Account of the main Profits, and the great Waſts, that have been Committed ever ſince the Death of <hi>Joſceline,</hi> the late Earl of <hi>Northumberland;</hi> which on the <hi>Twenty-First</hi> of <hi>May</hi> next, will be Ten Years. Not many of the Perſecutions have been of that long Continuance.</p>
+            <p>An Act of <hi>Parliament</hi> may be ſooner ſtop't; but will be hard to Reverſe, though never ſo Illegally obtain'd.</p>
+            <p>This firſt Sheet, added to this Book, contains the laſt Petition to the <hi>King,</hi> and a ſhort Abſtract of the ſeveral Tryals.</p>
+            <p>The Laſt Sheet was an Account to one, that deſired to be ſatisfyed, by rea<g ref="char:EOLhyphen"/>ſon the Agents had miſ-informed him: But now he is really Convinced.</p>
+            <p>The Second Sheet was likewiſe prepared for the laſt Seſſion of <hi>Parliament,</hi> and ſets forth the ſeveral Petitions, Reaſons, and Tranſactions in the Late Par<g ref="char:EOLunhyphen"/>liament. <hi>Pag.</hi> 1, 2, &amp; 13, 14.</p>
+            <p>The Three Sheets containing the middle of the Book, wherein he Petitioned the the <hi>Houſe of Commons</hi> for their Aid; not any wayes intending to Relinquiſh his Right in the <hi>Houſe of Peers.</hi>
+            </p>
+            <p>A Narrative of the ſeveral Tryals and Proceedings in the <hi>King</hi>'s-<hi>Bench,</hi> before my Lord Chief Juſtice <hi>Hayles,</hi> and the Lord Chief Juſtice <hi>Rainsford. Pag.</hi> 3.</p>
+            <p>The double Tryal, before the Lord Chief Juſtice <hi>Scroggs. Pag.</hi> 5.</p>
+            <p>A ſhort Abſtract of the Claymant's proceedings, ever ſince the Death of <hi>Jo<g ref="char:EOLhyphen"/>ſceline Percy,</hi> late and Eleventh Earl of <hi>Northumberland. Pag.</hi> 9.</p>
+            <p>The Pedigree of <hi>James Percy,</hi> which proves him to be Couſin, and next Heir-Male to <hi>Joſceline,</hi> the late Earl, and Heir-Male of the Body of <hi>Henry Percy,</hi> the Fifth Earl of <hi>Northumberland;</hi> Deſcended from Sir <hi>Ingleram Percy,</hi> his Younger Son, who was Innocent, and his Iſſue remains untainted to this Day. <hi>Pag.</hi> 12.</p>
+            <pb n="**" facs="tcp:34282:2"/>
+            <p>THere was a Petition preſented to the <hi>King</hi> and <hi>Council:</hi> But the Reſult of the Board was, The Cauſe lay not before them, but before the <hi>Par<g ref="char:EOLhyphen"/>liament.</hi>
+            </p>
+            <p>And the Kings moſt Gracious Anſwer to the Claimants firſt Petition, was, <hi>God forbid, we ſhould hinder an Heir, but that he ſhould have the Benefit of the Law.</hi>
+            </p>
+            <p>And now, his Majeſties further Gracious Anſwer is, to this Laſt following Pe<g ref="char:EOLhyphen"/>tition, Preſented into his Majeſties ſacred Hand, the 21st. of <hi>September,</hi> 1679. as Sir <hi>John Birkenhead</hi> did inform the Petitioner, this 24th. Inſtant.</p>
+            <p n="1">1. <hi>As to the Writ of Summons, to Sit in the Houſe of</hi> Peers, <hi>His Majeſty replyes, He cannot Grant it; by reaſon the Cauſe had been before the Houſe of</hi> Lords: <hi>And that it muſt be Determined by them, before his Majeſty could Grant the ſaid Writ of Summons.</hi>
+            </p>
+            <p n="2">2. <hi>As for that Act of</hi> Parliament, <hi>the Lord</hi> Ogle <hi>was indeavoring to obtain; His Majeſty was further pleaſed to ſay, That they Petitioner might put in a</hi> Proviſo, <hi>that there might be a Saving to the Petitioner, and to his Heirs; as the Counſels learn<g ref="char:EOLhyphen"/>ed in the Law, ſhould Adviſe.</hi>
+            </p>
+         </div>
+         <div type="petition">
+            <head>To the KING'S moſt Excellent Majeſty. The Humble Petition of <hi>James Percy.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat Your Petitioner hath theſe Nine Years, induſtriouſly Proſecuted his Claim to the Titles, Honors, Priviledges, Mannors, and Lands, <hi>&amp;c.</hi> that of Right deſcend to him, as Couſin and next Heir-Male to <hi>Joſceline Per<g ref="char:EOLhyphen"/>cy,</hi> late and Eleventh Earl of <hi>Northumberland.</hi>
+            </p>
+            <p>That there was a Bill preſented to the Right Honorable Committee of Lords, the laſt Seſſion of <hi>Parliament,</hi> for the Settling all thoſe Lands by an Act of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> that of right attends the Title and Name of your Petitioner, upon the Lord <hi>Ogle,</hi> who Marryed the Lady <hi>Elizabeth Percy,</hi> and would have Aſſumed her Name: Which Act would have cut off the Right of the Heir-Males of the <hi>Percies</hi> for ever.</p>
+            <p>Notwithſtanding, Your Petitioners clayming the ſaid Honors and Lands, <hi>&amp;c.</hi> as afore-ſaid; although his Claym hath not been determined theſe Nine Years, as above-ſaid; and now going on in the Tenth Year of his Claym.</p>
+            <p>May it therefore pleaſe Your moſt Excellent Majeſty, to give Com<g ref="char:EOLhyphen"/>mand for Your Petitioner's Summons to this preſent <hi>Parliament;</hi> by reaſon Your Petitioner hath proved himſelf the next Heir-Male in Blood, to the <hi>Percies</hi> of <hi>Northumberland,</hi> as by a Judg<g ref="char:EOLhyphen"/>ment and Verdict exemplyfied under the Seal of Your Majeſty's Court of <hi>King</hi>'s-<hi>Bench.</hi> Moreover, The Extreams of the Law, which Your Majeſty was Graciouſly pleaſed to refer Your Peti<g ref="char:EOLhyphen"/>tioner unto, and the Potency of the Defendants is ſuch, that it forces your Petitioner to fly to Your Royal Majeſty for Juſtice.</p>
+            <closer>
+               <hi>And he ſhall ever Pray,</hi> &amp;c.</closer>
+         </div>
+         <div type="summary">
+            <pb n="***" facs="tcp:34282:2"/>
+            <head>A ſhort Abſtract of the ſeveral Tryals is here-unto Annexed, to ſa<g ref="char:EOLhyphen"/>tisfy Your Majeſty.</head>
+            <p>WHereas Your Majeſty was Graciouſly pleaſed, to leave Your Petitioner to the Law; therefore, the Petitioner humbly Preſents theſe few Lines, to ſhew what is proved by the Law.</p>
+            <p>
+               <hi>Firſt Tryal</hi> in the Year 1674. The Petitioner was <hi>Plaintiff,</hi> againſt <hi>John Clark,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Defendant,</hi> who was the Lady <hi>Elizabeth Percies</hi> Agent, for ſcandalous Words he had ſpoken againſt the Plaintiff: At which Tryal, Judge <hi>Hales</hi> de<g ref="char:EOLhyphen"/>clared, That <hi>James Percy,</hi> the Claymant and Plaintiff, had proved himſelf a true <hi>Percy;</hi> Legitimate by Father and Mother, Grand-Father and Grand-Mother; and of the Blood and Family of the <hi>Percies</hi> of <hi>Northumberland:</hi> And he did ve<g ref="char:EOLhyphen"/>rily believe, that Your Petitioner was Couſin, and next Heir-Male to <hi>Joſceline Percy,</hi> the late and Eleventh Earl of <hi>Northumberland;</hi> only he was afraid, he had taken his Deſcent a little too low.</p>
+            <p>
+               <hi>Second Tryal,</hi> was upon an Ejectment for <hi>Cannington</hi>-Lands in <hi>Somerſet-ſhire;</hi> which Lands of Right, fell to the Heirs-Males of the <hi>Percies,</hi> after the Heirs-Males of the <hi>Rogerſes</hi> was Extinct: Doubtleſs, it was by Miſ-information, that Your Majeſty was miſtaken in Your Gift. And at that Tryal, the Pedigree of Your Petitioner was fully proved; and the Plaintiff ought to have had a Verdict for the ſame: But Sir <hi>John Coppleſton</hi> being made Defendant in the Caſe, ob<g ref="char:EOLhyphen"/>tained 80 <hi>l.</hi> Coſt; and doth violently Proſecute the Claymant and Plaintiff, Lands, and receives the Profits; and preſerved themſelves all along by Privi<g ref="char:EOLhyphen"/>ledges, for many Years; to the utter Ruin of Your Petitioner, if not timely prevented by Your Sacred Majeſty.</p>
+            <p>
+               <hi>Third Tryal,</hi> Your Petitioner proved himſelf Legitimate again; And not the Tyth of the Plaintiff's Witneſſes was Heard at that Tryal; by reaſon Judge <hi>Raynsford</hi> ſtood up, and ſaid, The Pedigree was ſufficiently proved by the For<g ref="char:EOLhyphen"/>mer Tryals; as by the Judgment and Verdict exemplyfied under the Seal of Your Majeſty's Court of <hi>King</hi>'s-<hi>Bench.</hi>
+            </p>
+            <p>
+               <hi>Fourth Tryal,</hi> the Plaintiff was forc'd to pay 90 <hi>l</hi> for <hi>Clark</hi>'s Coſt, before the Lord of <hi>Eſſex</hi>'s Priviledge could be got off, to go on to Tryal: And then the Defendant's Councel did declare in Court, That they did own the Plaintiff's Pedigree and Title; and yet would not ſuffer the Plaintiff's Writings to be Read, nor his Witneſſes to be Heard; which prevented the Plaintaiff from re<g ref="char:EOLhyphen"/>covering the 10000 <hi>l.</hi> Damages, which was laid in the Declaration: And for want of Juſtice, the Plaintiff lieth under the Burden of an Hundred Marks Coſts. Which Tryal ought to be Reviewed, and the Plaintiff Relieved.</p>
+            <closer>He therefore Prays, and humbly Beſeeches Your moſt Excellent Ma<g ref="char:EOLhyphen"/>jeſty, to remember Your own Troubles; how <hi>God</hi> delivered You out of the Oppreſſor's Hand: And even ſo be pleaſed to deli<g ref="char:EOLhyphen"/>ver Your oppreſſed Petitioner, out of the Hands of his Power<g ref="char:EOLhyphen"/>ful Opponants; ſo that, at laſt, he may injoy his Birth-right in Peace, according to Juſtice.</closer>
+            <closer>And if the Petitioner be delayed longer, he muſt humbly pray Your Majeſty for Maintenance, as is uſual in ſuch Caſes, to ſupport him, till he hath Recovered his Right, Title and Inhe<g ref="char:EOLhyphen"/>ritance.<signed>And Your Petitioner ſhall further Pray, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="****" facs="tcp:34282:3"/>
+            <p>IT is Hop'd, that Your Majeſty will never Condeſcend, that the Lord <hi>Ogle</hi> ſhall aſſume the Name of <hi>Percy;</hi> nor that the <hi>Percies</hi> Lands ſhall be ſettled upon him, by Act of Parliament: For the Lady <hi>Lucy</hi> gave all her Lands to the Heir-Males of the <hi>Percies</hi> for ever. God forbid, that ever ſuch a Fraud ſhould be Committed in this Nation! Eſpecially, when the true Heir-Male hath pro<g ref="char:EOLhyphen"/>ved his Pedigree.</p>
+            <p>Moreover, Your Petitioner remains Unmarryed: And further hopes, that by <hi>God</hi>'s Providence, and Your Patron-like Care, ſuch a Match may be obtain'd, that will ſupport the Title, and raiſe the <hi>Percies</hi> Name to its former Splendor.</p>
+         </div>
+         <div type="text">
+            <p>The Proroguing the <hi>Parliament,</hi> till the <hi>Thirtyeth</hi> of <hi>October</hi> next, for<g ref="char:EOLhyphen"/>ces the Claymant to make this further Complaint: For its Conſe<g ref="char:EOLhyphen"/>quence is as prejudicial, as Priviledges have been to the Plaintiff; and as much for the Advantage of the Agents and Defendants: Who by Priviledges, Delayes, and Oppreſſion, ſtill keeps Poſſeſſion; and the true Heir ſtill under Perſecution. For this Prorogument falls out as pat for the Defen<g ref="char:EOLhyphen"/>dants, as if it had been by their own Appointment. Had the <hi>Parliament</hi> held to Sit on the 17th. Day, then had the Claymant had time to have put in his Petition, in Obedience to the <hi>King</hi>'s Gracious Anſwer and Direction, to the Right Honorable Houſe of LORDS, to have been call'd into that Right Ho<g ref="char:EOLhyphen"/>nourable Houſe of PEERS; To have taken the Place and Seat of his Noble Anceſtors, Earls of <hi>Northumberland,</hi> according to his Birth-right and Title; which would have been a Means to have prevented the Act of <hi>Parliament,</hi> for the ſettling <hi>Percies</hi> Lands upon the Lord <hi>Ogle,</hi> that Marryed the Lady <hi>Elizabeth Percy,</hi> and that he ſhould not Aſſume the Name of <hi>Percy;</hi> and that the Fraud intended, might be prevented. But now, the Oppreſſors have gain'd this fol<g ref="char:EOLhyphen"/>lowing Advantage; The <hi>Term</hi> will be a Week old, by that time the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> Sits: ſo that, they hope, in that time, to contrive the Claymant into a Pri<g ref="char:EOLhyphen"/>ſon; ſo that he ſhall not be able to attend the Houſe, when they Sit: If they obtain their Aims, then will the Claymant further Complain to the LORDS and COMMONS, by freſh Petitions. And in the mean time, he hath prepa<g ref="char:EOLhyphen"/>red theſe Prints, to pre-admoniſh the World: And that Juſt Men may know, that <hi>James Percy</hi> is the true and lawful Heir; and of right, ought to enjoy the Earldom of <hi>Northumberland:</hi> and that the Eſtate muſt attend the Title. But cruel Oppreſſion ſtill keeps Poſſeſſion; which forces the Claymant, to cry out aloud, again, again, and again, for Juſtice: and that Property, and Right, may be preſerved. For if his Innocent, and Juſt Cauſe, ſhould be now neglected, your Children, and Children's Children, may be Rejected another Day. I pray <hi>God,</hi> to direct our <hi>King, Parliament,</hi> and <hi>People;</hi> that they may fore-ſee Things ſo, as to preſerve the Good, and prevent the Evils, to come.</p>
+            <closer>AMEN.</closer>
+            <pb facs="tcp:34282:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
